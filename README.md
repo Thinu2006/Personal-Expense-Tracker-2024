@@ -1,5 +1,5 @@
 # Personal-Expense-Tracker-2024
-![img1](https://github.com/user-attachments/assets/ebcfa395-b407-4e66-b500-eedfe7f03e1e)
+![backgroundImage](https://github.com/Thinu2006/Personal-Expense-Tracker-2024/blob/main/backgroundImage.jpg?raw=true)
 ## Overview:
 **Personal Expense Tracker** 2024 is an interactive financial tracking tool developed using Power BI. This project helps individuals monitor and analyze their personal finances by providing detailed visualizations of their spending habits. With this tracker, users can categorize expenses, set budgets, and view trends over time, ultimately helping them make more informed financial decisions. Whether you’re saving for a goal or trying to cut back on spending, this tool makes it easier to understand your financial situation.
 
@@ -22,3 +22,19 @@ The main objectives of the Personal Expense Tracker 2024 project are:
 - **Power BI**: Used for building the interactive visualizations and dashboards.
 - **Excel**: Data import from Excel for easy expense entry and manipulation.
 - **DAX**: Data Analysis Expressions for creating calculated columns and measures.
+
+## Usage
+Once the Power BI file is open, you can start by:
+- Adding your expenses by modifying the source data or importing your own data.
+- Customizing the dashboard to fit your personal financial tracking needs.
+- Interacting with the visuals to get insights into spending trends and patterns.
+
+## Contributions
+Contributions are welcome! If you'd like to improve this project, please fork the repository, make your changes, and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+Thanks to Microsoft Power BI for providing an amazing platform for data visualization.
+Inspired by the need to help individuals track and manage personal finances more effectively.
